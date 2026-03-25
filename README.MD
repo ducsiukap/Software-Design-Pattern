@@ -5,6 +5,7 @@
 ## **Table of contents**
 
 1. [Creational Patterns](./creational/README.MD)
+2. [Structional Patterns](./structural/README.MD)
 
 ---
 
