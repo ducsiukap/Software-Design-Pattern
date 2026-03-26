@@ -6,6 +6,7 @@
 
 1. [Creational Patterns](./creational/README.MD)
 2. [Structional Patterns](./structural/README.MD)
+3. [Behavioral Patterns](./behavioral/README.md)
 
 ---
 
