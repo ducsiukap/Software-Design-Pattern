@@ -13,10 +13,10 @@ giữa các **objects/classes**.
 
 - [Chain of Responsibility](./cor/ChainOfResponsibility.md) -> **Truyền request** qua chuỗi **handler** | **`Pipeline` / `Filter`**
 - [Command](./command/CommandPattern.md) -> **Đóng gói request** thành object | **`Undo` / `Queue`**
-- [Interpreter](https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm)
+- [Interpreter](https://www.tutorialspoint.com/design_pattern/interpreter_pattern.htm) -> Định nghĩa grammar cho một ngôn ngữ đơn giản và dùng object để interpret các câu lệnh.
 - [Iterator](https://www.tutorialspoint.com/design_pattern/iterator_pattern.htm) -> **Duyệt collection** mà không lộ cấu trúc nội bộ | **`Sequential access`**
 - [Mediator](./mediator/MediatorPattern.md) -> Trung gian **điều phối giao tiếp** | **`Decouple many-to-many`**
-- [Momento](https://www.tutorialspoint.com/design_pattern/memento_pattern.htm)
+- [Momento](https://www.tutorialspoint.com/design_pattern/memento_pattern.htm) -> Lưu và khôi phục trạng thái của object mà không vi phạm encapsulation.
 - [Observer](./observer/ObserverPattern.md) -> Một thay đổi → nhiều đối tượng được thông báo | **`Subscribe` / `Notify`**
 - [State](./state/StatePattern.md) -> Thay đổi hành vi khi state thay đổi | **`Finite State Machine`**
 - [Strategy](./strategy/StrategyPattern.md) -> Chọn thuật toán lúc runtime | **`Swap algorithm`**
